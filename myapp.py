@@ -9,5 +9,5 @@ with col1:
   st.write("Jerry is soo cute")
   with col2:
     st.subheader("Dora")
-  st.image("https://2.bp.blogspot.com/-RgxTTFbpAgY/UUCAUA7CS9I/AAAAAAAAGLU/TLqTuhXjhXc/s1600/16.png",caption="Dora",width=200,use_column_width=True)
-  st.write("Dora is sweet")
+    st.image("https://2.bp.blogspot.com/-RgxTTFbpAgY/UUCAUA7CS9I/AAAAAAAAGLU/TLqTuhXjhXc/s1600/16.png",caption="Dora",width=200,use_column_width=True)
+    st.write("Dora is sweet")
