@@ -13,5 +13,10 @@ with col2:
   st.write("Dora is sweet")
 with col3:
   st.subheader("sinchan")
-  st.image("https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif",caption="Dora",width=200,use_column_width=True)
+  st.image("https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif",caption="shinchan",width=200,use_column_width=True)
   st.write("sinchan is naughty")
+with col4:
+  st.subheader("Motu")
+  st.image("https://media.tenor.com/dW088L2Bx8EAAAAM/nachle-motu.gif",caption="Motu",width=200,use_column_width=True)
+  st.write("motu and patlu both are soo funny")
+
