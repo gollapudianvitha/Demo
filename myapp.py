@@ -2,7 +2,7 @@ import streamlit as st
 st.set_page_config(page_title='cartoon')
 st.header("Types of Cartoons")
 
-col1,col2,col3=st.columns(4)
+col1,col2,col3=st.columns(3)
 with col1:
   st.subheader("Jerry")
   st.image("http://clipart-library.com/images/kiKByzxoT.jpg",caption="Jerry",width=200,use_column_width=True)
@@ -15,8 +15,5 @@ with col3:
   st.subheader("sinchan")
   st.image("https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif",caption="shinchan",width=200,use_column_width=True)
   st.write("sinchan is naughty")
-with col4:
-  st.subheader("Motu")
-  st.image("https://media.tenor.com/dW088L2Bx8EAAAAM/nachle-motu.gif",caption="Motu",width=200,use_column_width=True)
-  st.write("motu and patlu both are soo funny")
+
 
