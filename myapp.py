@@ -18,6 +18,6 @@ with col3:
 with col4:
   st.subheader("Motu and patlu")
   st.image("https://media.tenor.com/Itzu4p4UpU0AAAAM/gale-lag-yaara-motu.gif",caption="shinchan",width=200,use_column_width=True)
-  st.write("motu and patlu both are funny")
+  st.write("motu and patlu  are funny")
 
 
